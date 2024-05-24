@@ -21,9 +21,9 @@ Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 
 
 ## Program:
 ```
-
-Developed by: DIVIYADHARSHINI A
-Reg.No: 22002825
+#program to find Multivariate Linear Regression 
+#Developed by: Adhithya K
+#Register Number: 2305002001
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("carsemission.csv")
@@ -39,7 +39,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/119393424/216236186-195aa989-8d97-4358-9892-4b31b6fb1f21.png)
+![image](https://github.com/adhi2k/Multivariate-Linear-Regression/assets/145216997/758f9c00-be4f-411c-9302-5910383bee45)
 
 
 
